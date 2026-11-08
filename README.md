@@ -1,7 +1,8 @@
 # MFGUnlocker GUI
 
 An **unofficial** Windows helper for [MFG Unlocker](https://github.com/dashdogy/MFG-Unlocker)
-by **dashdogy**. Pick a game's install folder and it works out where the mod goes,
+by **dashdogy** made 100% with Claude with me providing direction.
+Pick a game's install folder and it works out where the mod goes,
 installs it, and helps if it doesn't work. It can also upgrade and remove it again.
 
 > **Not affiliated with or endorsed by dashdogy or the MFG Unlocker project.**

@@ -47,7 +47,7 @@ It comes with no warranty and no promise of support (see [LICENSE](LICENSE)).
 
 ## How to use it
 
-1. Download `MFGUnlockerGUI.exe` from [Releases](../../releases) and put it anywhere. There's no installer.
+1. Download the `MFGUnlockerGUI_v….zip` file from [Releases](../../releases). Right-click it, choose **Extract All…**, then put `MFGUnlockerGUI.exe` anywhere you like. There's no installer. The release notes list the zip's SHA-256 fingerprint if you want to check your download.
 2. Run it. The first time, it offers to download the latest MFG Unlocker and shows the release notes. Click OK.
 3. Click **Add a game…** and pick the game's install folder.
 4. Check what it found, then click **Install**.
